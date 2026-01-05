@@ -73,9 +73,9 @@ These are studied for validation and interpretation only, to avoid bias.
   (Background / Non-prompt / Prompt)
 - **Train/Test split**: 70% / 30%
 - **Transverse momentum range**:
-  $$
+  $
   6 < p_{\mathrm{T}} < 8\ \text{GeV}/c
-  $$
+  $
 
 Exploratory data analysis and correlation studies are performed before training.
 
@@ -153,5 +153,5 @@ Engineering Physics
 Indian Institute of Technology Bombay
 
 
-## Repository Structure
+
 
