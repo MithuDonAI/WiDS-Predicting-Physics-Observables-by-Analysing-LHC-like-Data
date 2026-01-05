@@ -4,7 +4,7 @@
 ## Overview
 
 This repository contains a complete end-to-end analysis for classifying  
-\(\mathrm{D}^{*+} \rightarrow \mathrm{D}^0 \pi^+\) candidates into **prompt**, **non-prompt**, and **background** categories using **topological variables** derived from LHC data.
+$(\mathrm{D}^{*+} \rightarrow \mathrm{D}^0 \pi^+\$ candidates into **prompt**, **non-prompt**, and **background** categories using **topological variables** derived from LHC data.
 
 The project combines **physics-motivated feature selection** with **machine learning (BDT)** techniques, following workflows commonly used in modern high-energy physics experiments.
 
