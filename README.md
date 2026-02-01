@@ -1,4 +1,4 @@
-# Predicting Physics Observables with LHC Data  
+# Predicting Physics Observables with LHC like Data  
 ### Prompt vs Non-Prompt D* Meson Classification using Machine Learning
 
 ## Overview
